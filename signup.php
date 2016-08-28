@@ -7,7 +7,6 @@
   <h2>Sign Up</h2>
 <form name="htmlform" method="post" action="add_user.php">
 <table width="450px">
-</tr>
 <tr>
  <td valign="top">
   <label for="first_name" style="color: #FFFFFF"><b>First Name *</b></label>
